@@ -1,5 +1,6 @@
 import urllib.request,json
-from .models import Movie
+from .models import movie
+Movie = movie.Movie
 
 
 
